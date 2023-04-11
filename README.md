@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **[Twitter](https://twitter.com/imaimai17468)**
 
-- 📄 Know about my experiences [my portfolio](https://imaimai17468.github.io/](https://imaimai-portfolio.vercel.app/)
+- 📄 Know about my experiences [my portfolio](https://imaimai-portfolio.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 
