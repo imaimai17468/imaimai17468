@@ -60,7 +60,13 @@
   </a>  
   <a href="https://sass-lang.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-  </a>  
+  </a>
+  <a href="https://astro.build/" target="_blank">
+    <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44914786?s=48&v=4" alt="Astro" height="50" />
+  </a>
+  <a href="https://svelte.jp/" target="_blank">
+    <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/23617963?s=48&v=4" alt="Svelte" height="50" />
+  </a>
 </div>
 
 
