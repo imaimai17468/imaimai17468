@@ -17,6 +17,10 @@
     
 - 📄 Know about my experiences [my portfolio](https://imaimai-portfolio.vercel.app/)
 
+- [Zenn](https://zenn.dev/imaimai17468)
+
+- [Note](https://note.com/imaimai17468/n/n4e86315e080d)
+
 
 <h2 align="center">🐸 Activity 🐸</h3>
 
