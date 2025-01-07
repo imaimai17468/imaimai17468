@@ -15,7 +15,7 @@
     
 - 🔭 I’m currently working on [Yumemi](https://www.yumemi.co.jp/)
     
-- 📄 Know about my experiences [my portfolio](https://imaimai-portfolio.vercel.app/)
+- 📄 Know about my experiences [my portfolio](https://imaimai.tech/)
 
 - [Zenn](https://zenn.dev/imaimai17468)
 
