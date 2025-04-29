@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imaimai17468&count_private=true&theme=2077"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imaimai17468&count_private=true&theme=2077" style="margin-right: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imaimai17468&count_private=true&theme=2077&utcOffset=9"/>
 </div>
 
 <h2 align="center">🐸 GitHub Stats 🐸</h3>
