@@ -29,8 +29,8 @@
 <h2 align="center">🐸 GitHub Stats 🐸</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imaimai17468&show_icons=true&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=imaimai17468&rank=-?&theme=darkhub"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=imaimai17468&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy-psi-five.vercel.app/?username=imaimai17468&rank=-?&theme=darkhub"/>
 </div>
 
 <h2 align="center">🐸 Lapras 🐸</h3>
