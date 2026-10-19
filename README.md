@@ -19,12 +19,11 @@
 
 </div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./neofetch/dark.svg" />
-    <img src="./neofetch/light.svg" width="100%" alt="neofetch-style profile of imaimai17468" />
-  </picture>
-</p>
+## 🐸 About me
+
+- 🏢 Front-end Engineer at **Accenture Song (YUMEMI)**
+- 🌐 Portfolio: [imaim.ai](https://imaim.ai)
+- 🎨 UI / デザインシステム / 開発体験まわりのツールをよく作っています
 
 ## 🐸 Tech Stack
 
