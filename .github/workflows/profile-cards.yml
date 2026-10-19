@@ -35,11 +35,16 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Generate neofetch card
+        run: python3 scripts/neofetch.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A profile-summary-card-output profile-3d-contrib dist
+          git add -A profile-summary-card-output profile-3d-contrib dist neofetch
           if git commit -m "Update profile cards"; then
             git push
           fi

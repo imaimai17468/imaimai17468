@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1071" height="548" viewBox="0 0 1071 548" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+<style>.fg{fill:#24292f}.key{fill:#0550ae}.value{fill:#116329}.dim{fill:#8c959f}.art{fill:#1a7f37}.add{fill:#1a7f37}.delete{fill:#cf222e}@keyframes in{from{opacity:0}to{opacity:1}}text{white-space:pre;animation:in .4s ease backwards}</style>
+<rect width="100%" height="100%" rx="12" fill="#f6f8fa"/>
+<text x="24" y="148" class="art" style="animation-delay:0.00s">         _,-.         .-._</text>
+<text x="24" y="168" class="art" style="animation-delay:0.04s">       ,&#x27;    `.     ,&#x27;    `.</text>
+<text x="24" y="188" class="art" style="animation-delay:0.08s">      /  ,--.  \___/  ,--.  \</text>
+<text x="24" y="208" class="art" style="animation-delay:0.12s">     |  ( () )       ( () )  |</text>
+<text x="24" y="228" class="art" style="animation-delay:0.16s">      \  `--&#x27;         `--&#x27;  /</text>
+<text x="24" y="248" class="art" style="animation-delay:0.20s">       `.                 ,&#x27;</text>
+<text x="24" y="268" class="art" style="animation-delay:0.24s">       / `-._         _.-&#x27; \</text>
+<text x="24" y="288" class="art" style="animation-delay:0.28s">      /      `-------&#x27;      \</text>
+<text x="24" y="308" class="art" style="animation-delay:0.32s">     |                       |</text>
+<text x="24" y="328" class="art" style="animation-delay:0.36s">     |    .           .      |</text>
+<text x="24" y="348" class="art" style="animation-delay:0.40s">      \    `-._____.-&#x27;      /</text>
+<text x="24" y="368" class="art" style="animation-delay:0.44s">       `._               _,&#x27;</text>
+<text x="24" y="388" class="art" style="animation-delay:0.48s">      ,-&#x27; `--.._____..--&#x27; `-.</text>
+<text x="24" y="408" class="art" style="animation-delay:0.52s">     (__/ \__)       (__/ \__)</text>
+<text x="308" y="40" style="animation-delay:0.30s"><tspan class="key">imaimai17468@github</tspan></text>
+<text x="308" y="60" style="animation-delay:0.35s"><tspan class="dim">──────────────────────────────────────────────────────────</tspan></text>
+<text x="308" y="80" style="animation-delay:0.40s"><tspan class="key">OS</tspan><tspan class="fg">:</tspan><tspan class="dim"> ............................. </tspan><tspan class="value">Accenture Song (YUMEMI)</tspan></text>
+<text x="308" y="100" style="animation-delay:0.45s"><tspan class="key">Uptime</tspan><tspan class="fg">:</tspan><tspan class="dim"> ...................... </tspan><tspan class="value">7 years, 3 months, 13 days</tspan></text>
+<text x="308" y="120" style="animation-delay:0.50s"><tspan class="key">Host</tspan><tspan class="fg">:</tspan><tspan class="dim"> .......................................... </tspan><tspan class="value">imaim.ai</tspan></text>
+<text x="308" y="140" style="animation-delay:0.55s"><tspan class="key">Kernel</tspan><tspan class="fg">:</tspan><tspan class="dim"> .............................. </tspan><tspan class="value">Front-end Engineer</tspan></text>
+<text x="308" y="160" style="animation-delay:0.60s"><tspan class="key">Shell</tspan><tspan class="fg">:</tspan><tspan class="dim"> ................................ </tspan><tspan class="value">zsh + Claude Code</tspan></text>
+<text x="308" y="180" style="animation-delay:0.65s"><tspan class="key">Languages.Programming</tspan><tspan class="fg">:</tspan><tspan class="dim"> ......... </tspan><tspan class="value">TypeScript, Rust, Python</tspan></text>
+<text x="308" y="200" style="animation-delay:0.70s"><tspan class="key">Languages.Web</tspan><tspan class="fg">:</tspan><tspan class="dim"> .................... </tspan><tspan class="value">React, Next.js, Astro</tspan></text>
+<text x="308" y="220" style="animation-delay:0.75s"><tspan class="key">Hobbies</tspan><tspan class="fg">:</tspan><tspan class="dim"> .................. </tspan><tspan class="value">UI, Design Systems, Keyboards</tspan></text>
+<text x="308" y="260" style="animation-delay:0.85s"><tspan class="dim">─ Contact ────────────────────────────────────────────────</tspan></text>
+<text x="308" y="280" style="animation-delay:0.90s"><tspan class="key">Portfolio</tspan><tspan class="fg">:</tspan><tspan class="dim"> ............................. </tspan><tspan class="value">https://imaim.ai</tspan></text>
+<text x="308" y="300" style="animation-delay:0.95s"><tspan class="key">X</tspan><tspan class="fg">:</tspan><tspan class="dim"> ........................................ </tspan><tspan class="value">@imaimai17468</tspan></text>
+<text x="308" y="320" style="animation-delay:1.00s"><tspan class="key">Zenn</tspan><tspan class="fg">:</tspan><tspan class="dim"> ............................. </tspan><tspan class="value">zenn.dev/imaimai17468</tspan></text>
+<text x="308" y="340" style="animation-delay:1.05s"><tspan class="key">sizu.me</tspan><tspan class="fg">:</tspan><tspan class="dim"> ........................... </tspan><tspan class="value">sizu.me/imaimai17468</tspan></text>
+<text x="308" y="380" style="animation-delay:1.15s"><tspan class="dim">─ GitHub Stats ───────────────────────────────────────────</tspan></text>
+<text x="308" y="400" style="animation-delay:1.20s"><tspan class="key">Repos</tspan><tspan class="fg">:</tspan><tspan class="dim"> .............................. </tspan><tspan class="value">93 {Contributed: 2}</tspan></text>
+<text x="308" y="420" style="animation-delay:1.25s"><tspan class="key">Stars</tspan><tspan class="fg">:</tspan><tspan class="dim"> .............................................. </tspan><tspan class="value">310</tspan></text>
+<text x="308" y="440" style="animation-delay:1.30s"><tspan class="key">Commits</tspan><tspan class="fg">:</tspan><tspan class="dim"> .......................................... </tspan><tspan class="value">6,165</tspan></text>
+<text x="308" y="460" style="animation-delay:1.35s"><tspan class="key">Followers</tspan><tspan class="fg">:</tspan><tspan class="dim"> .......................................... </tspan><tspan class="value">233</tspan></text>
+<text x="308" y="480" style="animation-delay:1.40s"><tspan class="key">Lines of Code</tspan><tspan class="fg">:</tspan><tspan class="dim"> ................................ </tspan><tspan class="value">1,145,475</tspan><tspan class="fg"> ( </tspan><tspan class="add">1,982,481++</tspan><tspan class="fg">, </tspan><tspan class="delete">837,006--</tspan><tspan class="fg"> )</tspan></text>
+<rect x="308" y="498" width="26" height="14" rx="3" fill="#f7768e"/>
+<rect x="338" y="498" width="26" height="14" rx="3" fill="#ff9e64"/>
+<rect x="368" y="498" width="26" height="14" rx="3" fill="#e0af68"/>
+<rect x="398" y="498" width="26" height="14" rx="3" fill="#9ece6a"/>
+<rect x="428" y="498" width="26" height="14" rx="3" fill="#73daca"/>
+<rect x="458" y="498" width="26" height="14" rx="3" fill="#7dcfff"/>
+<rect x="488" y="498" width="26" height="14" rx="3" fill="#7aa2f7"/>
+<rect x="518" y="498" width="26" height="14" rx="3" fill="#bb9af7"/>
+</svg>
