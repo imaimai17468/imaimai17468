@@ -12,6 +12,7 @@
   <a href="https://zenn.dev/imaimai17468"><img src="https://img.shields.io/badge/Zenn-@imaimai17468-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white&labelColor=1a1b27" /></a>
   <a href="https://speakerdeck.com/imaimai17468"><img src="https://img.shields.io/badge/Speaker_Deck-@imaimai17468-009287?style=for-the-badge&logo=speakerdeck&logoColor=white&labelColor=1a1b27" /></a>
   <a href="https://note.com/imaimai17468"><img src="https://img.shields.io/badge/note-@imaimai17468-41C9B4?style=for-the-badge&logo=note&logoColor=white&labelColor=1a1b27" /></a>
+  <a href="https://sizu.me/imaimai17468"><img src="https://img.shields.io/badge/sizu.me-@imaimai17468-e8e4dc?style=for-the-badge&labelColor=1a1b27" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=imaimai17468&color=7aa2f7&style=flat-square&label=Profile+Views" />
@@ -22,7 +23,6 @@
 
 - 🏢 Front-end Engineer at **Accenture Song (YUMEMI)**
 - 🌐 Portfolio: [imaim.ai](https://imaim.ai)
-- 📝 [自己紹介 note](https://note.com/imaimai17468/n/n4e86315e080d)
 - 🎨 UI / デザインシステム / 開発体験まわりのツールをよく作っています
 
 ## 🐸 Tech Stack
