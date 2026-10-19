@@ -18,12 +18,9 @@
 
 <h2 align="center">🐸 Activity 🐸</h3>
 
-[![imaimai17468's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imaimai17468&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imaimai17468&count_private=true&theme=2077"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imaimai17468&count_private=true&theme=2077&utcOffset=9"/>
+  <img src="./profile-summary-card-output/2077/0-profile-details.svg"/>
+  <img src="./profile-summary-card-output/2077/4-productive-time.svg"/>
 </div>
 
 <h2 align="center">🐸 GitHub Stats 🐸</h3>
@@ -31,12 +28,6 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=imaimai17468&show_icons=true&theme=tokyonight" />
   <img src="https://github-profile-trophy-psi-five.vercel.app/?username=imaimai17468&rank=-?&theme=darkhub"/>
-</div>
-
-<h2 align="center">🐸 Lapras 🐸</h3>
-
-<div align="center">
-  <img src="https://lapras-card-generator.vercel.app/api/svg?e=4.03&b=3.57&i=3.8&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=imaimai17468" width="400"/>
 </div>
 
 <p align="center">
