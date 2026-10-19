@@ -33,7 +33,7 @@
 <text x="308" y="380" style="animation-delay:1.15s"><tspan class="dim">─ GitHub Stats ───────────────────────────────────────────</tspan></text>
 <text x="308" y="400" style="animation-delay:1.20s"><tspan class="key">Repos</tspan><tspan class="fg">:</tspan><tspan class="dim"> .............................. </tspan><tspan class="value">93 {Contributed: 2}</tspan></text>
 <text x="308" y="420" style="animation-delay:1.25s"><tspan class="key">Stars</tspan><tspan class="fg">:</tspan><tspan class="dim"> .............................................. </tspan><tspan class="value">310</tspan></text>
-<text x="308" y="440" style="animation-delay:1.30s"><tspan class="key">Commits</tspan><tspan class="fg">:</tspan><tspan class="dim"> .......................................... </tspan><tspan class="value">6,165</tspan></text>
+<text x="308" y="440" style="animation-delay:1.30s"><tspan class="key">Commits</tspan><tspan class="fg">:</tspan><tspan class="dim"> .......................................... </tspan><tspan class="value">6,166</tspan></text>
 <text x="308" y="460" style="animation-delay:1.35s"><tspan class="key">Followers</tspan><tspan class="fg">:</tspan><tspan class="dim"> .......................................... </tspan><tspan class="value">233</tspan></text>
 <text x="308" y="480" style="animation-delay:1.40s"><tspan class="key">Lines of Code</tspan><tspan class="fg">:</tspan><tspan class="dim"> ................................ </tspan><tspan class="value">1,145,475</tspan><tspan class="fg"> ( </tspan><tspan class="add">1,982,481++</tspan><tspan class="fg">, </tspan><tspan class="delete">837,006--</tspan><tspan class="fg"> )</tspan></text>
 <rect x="308" y="498" width="26" height="14" rx="3" fill="#f7768e"/>
