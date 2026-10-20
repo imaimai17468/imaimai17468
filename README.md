@@ -37,9 +37,9 @@
   <a href="https://github.com/imaimai17468/digital-agency-icons"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=imaimai17468&repo=digital-agency-icons&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/imaimai17468/imaimai-front-templete"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=imaimai17468&repo=imaimai-front-templete&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/imaimai17468/imaimai-ui"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=imaimai17468&repo=imaimai-ui&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/imaimai17468/hypersig"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=imaimai17468&repo=hypersig&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/imaimai17468/typechart"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=imaimai17468&repo=typechart&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/imaimai17468/docdd"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=imaimai17468&repo=docdd&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/imaimai17468/contrast-color-palette"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=imaimai17468&repo=contrast-color-palette&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ## 🐸 GitHub Stats
