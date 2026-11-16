@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/imaimai17468/imaimai17468/master/profile-summary-card-output/tokyonight/4-productive-time.svg)
-```
-
-    
